@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "utils",
   "version": "0.0.0",
   "main": "./index.tsx",
   "types": "./index.tsx",
@@ -10,13 +10,5 @@
     "config": "*",
     "tsconfig": "*",
     "typescript": "^4.5.3"
-  },
-  "dependencies": {
-    "@emotion/react": "^11.8.1",
-    "@emotion/styled": "^11.8.1",
-    "@mui/icons-material": "^5.4.4",
-    "@mui/material": "^5.4.4",
-    "bootstrap": "^5.1.3",
-    "react-icons": "^4.3.1"
   }
 }

@@ -1,0 +1,9 @@
+.listItem {
+  display: flex;
+  justify-content: flex-end;
+  color: #7E9582;
+  cursor: pointer;
+}
+.reactIcons {
+  font-size: 20px;
+}
